@@ -2,10 +2,10 @@
 Resource center of ways to improve the responsible use of AI for environmental sustainability. 
 ## How To Use Github
 Github is a free platform for sharing files and resources, creating an account is not required, the "ResponsibleAI" repository acts like one big folder for all resources.
-### On Desktop
+#### On Desktop
 .pdf and .png files can be viewed simply by clicking on the files within the github website. To download files, click on the file, click on the three dots in the top right corner above history, click download.
-### On Mobile
-only .png files can be viewed within the github website, all other files must be downloaded first. To download 
+#### On Mobile
+only .png files can be viewed within the github website, all other files must be downloaded first. To download files, click on the file, click on the three dots to the right of master, click download.
 
 ## LMStudioNotes&Tutorials
 This folder contains written step by step tutorials on how to download and configure the LM Studio app on Windows along with some helpful notes and charts.
