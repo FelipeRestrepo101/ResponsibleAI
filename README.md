@@ -7,13 +7,14 @@ Github is a free platform for sharing files and resources, creating an account i
 ### On Mobile
 only .png files can be viewed within the github website, all other files must be downloaded first. 
 ## LMStudioNotes&Tutorials
-This folder contains written step by step tutorials on how to download and configure the LMStudio app on Windows as well as helpful notes and charts. I've included .docx and .pdf versions of files but .pdf is recommended. 
+This folder contains written step by step tutorials on how to download and configure the LM Studio app on Windows as well as helpful notes and charts. I've included .docx and .pdf versions of files but .pdf is recommended. 
 ## Posterboard
 This folder contains a high resolution image of a posterboard like overview on the topic.
 ## Presentation
 This folder contains a powerpoint presentation like overview on the topic.
-## Rsearch
+## Research
 This folder contains a research paper explaining: how AI impacts the environment; explanations for the statistics and calculations displayed on the posterboard and presentation; and references to the original sources of my research.
-
+## LMStudioPreview
+This file is an .mp4 video showing a preview of how you can run AI models locally using the LM Studio desktop app
 
 
